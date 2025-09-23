@@ -72,8 +72,6 @@ outputs/
     └── frequent/
 ```
 
-Each folder contains structured **CSV outputs with headers**.
-
 ---
 
 ## Tasks, Methodology, and Sample Outputs
