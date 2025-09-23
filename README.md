@@ -203,6 +203,5 @@ ls -R outputs/
 ## References
 - [Apache Spark Documentation](https://spark.apache.org/docs/latest/sql-programming-guide.html)  
 - [PySpark API Reference](https://spark.apache.org/docs/latest/api/python/)  
-- Course GitHub: [Assignment Instructions](https://github.com/ITCS6190-Fall2025/h6_itcs6190_Spark_Structured_APIs_Music_Listener_Behaviour_Analysis)
 
 ---
