@@ -1,4 +1,4 @@
-## PySpark user listening behavior analytics: row_number ranking, genre loyalty, night-owl detection
+## PySpark user listening behavior analytics: deterministic row_number ranking, genre loyalty
 
 A batch analytics pipeline built on the Apache Spark DataFrame API. It analyzes how users listen: which genre each user favors, how concentrated their listening is in that genre, how long listeners stay on each track, and which users listen mostly late at night. The input is a reproducible, seeded synthetic event log of 1,000 listening events from 100 users across 50 songs, enriched with song metadata through a join.
 
